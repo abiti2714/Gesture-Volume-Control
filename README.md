@@ -23,8 +23,3 @@ Control your system volume using hand gestures in real-time! This project uses c
   - pip install opencv-python mediapipe pycaw comtypes
 ## Run the application
    - python Gesture_Volume_Control.py
-## Project Structure
-  gesture-volume-control/
-├── Gesture_Volume_Control.py    # Main application logic
-├── HandTrackingModule.py        # Custom hand detection module
-└── README.md
